@@ -10,6 +10,8 @@ print("Hello Kuni! Lets Do IT."); print("Hello Kuni! Good job.")
 print("""Hello Kuni!
       Lets Do IT.""")
 
+print("Chnaging for GIT")
+
 
 #while you are using the shell [IDEL] dont restart it. otherwise you will loose all the pevious declared variables
 
